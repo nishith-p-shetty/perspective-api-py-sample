@@ -1,6 +1,8 @@
 # perspective-api-py-sample
 A Python sample code to use perspective api
 
+go to and follow the steps to get API key -> https://developers.perspectiveapi.com/s/docs-get-started?language=en_US
+
 <div tabindex="1" class="slds-p-right_small grid-content slds-p-vertical_xx-large" data-aura-rendered-by="110:2;a">
 
 <div data-region-name="content" data-item-id="077b7692-1ecf-4a29-9175-d26c25a9688a" data-aura-rendered-by="100:2;a">
